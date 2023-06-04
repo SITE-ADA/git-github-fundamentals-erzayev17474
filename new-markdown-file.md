@@ -1,0 +1,1 @@
+Github is a platform where programmers can create and share projects. It also allows developers to edit and comment each other's codes. Although there are confusing parts like "Fork" and "Issues", I am hopeful that I will get better at these concepts.
